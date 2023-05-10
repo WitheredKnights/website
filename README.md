@@ -1,2 +1,2 @@
-# website
-A hub that goes to projects by the Withered Knights
+# WitheredKnights.github.io
+The website for Withered Knights
